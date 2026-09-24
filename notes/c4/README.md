@@ -1,0 +1,17 @@
+# 📘 Course 4 — Computer Networks
+
+- [ ] [01. OSI & TCP-IP Models](./01-osi--tcp-ip-models.md)
+- [ ] [02. Physical Layer](./02-physical-layer.md)
+- [ ] [03. Data Link Layer](./03-data-link-layer.md)
+- [ ] [04. MAC & Ethernet](./04-mac--ethernet.md)
+- [ ] [05. IP Addressing & Subnetting](./05-ip-addressing--subnetting.md)
+- [ ] [06. Routing Algorithms](./06-routing-algorithms.md)
+- [ ] [07. TCP vs UDP](./07-tcp-vs-udp.md)
+- [ ] [08. Congestion Control](./08-congestion-control.md)
+- [ ] [09. DNS](./09-dns.md)
+- [ ] [10. HTTP HTTPS](./10-http-https.md)
+- [ ] [11. TLS SSL](./11-tls-ssl.md)
+- [ ] [12. Web Sockets](./12-web-sockets.md)
+- [ ] [13. Firewalls & NAT](./13-firewalls--nat.md)
+- [ ] [14. Wireless & Mobile](./14-wireless--mobile.md)
+- [ ] [15. Network Security](./15-network-security.md)

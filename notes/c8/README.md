@@ -1,0 +1,17 @@
+# 📘 Course 8 — Machine Learning
+
+- [ ] [01. Math for ML](./01-math-for-ml.md)
+- [ ] [02. Probability & Statistics](./02-probability--statistics.md)
+- [ ] [03. Data Preprocessing](./03-data-preprocessing.md)
+- [ ] [04. Linear Regression](./04-linear-regression.md)
+- [ ] [05. Logistic Regression](./05-logistic-regression.md)
+- [ ] [06. Decision Trees & RF](./06-decision-trees--rf.md)
+- [ ] [07. SVM](./07-svm.md)
+- [ ] [08. KNN & Naive Bayes](./08-knn--naive-bayes.md)
+- [ ] [09. K-Means & Clustering](./09-k-means--clustering.md)
+- [ ] [10. PCA](./10-pca.md)
+- [ ] [11. Neural Networks](./11-neural-networks.md)
+- [ ] [12. CNNs](./12-cnns.md)
+- [ ] [13. RNNs LSTMs](./13-rnns-lstms.md)
+- [ ] [14. Transformers & LLMs](./14-transformers--llms.md)
+- [ ] [15. End-to-End Project](./15-end-to-end-project.md)

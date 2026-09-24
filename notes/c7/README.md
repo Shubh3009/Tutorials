@@ -1,0 +1,17 @@
+# 📘 Course 7 — Web Development MERN
+
+- [ ] [01. HTML5 Semantics](./01-html5-semantics.md)
+- [ ] [02. CSS3 Flexbox Grid](./02-css3-flexbox-grid.md)
+- [ ] [03. JavaScript ES6+](./03-javascript-es6.md)
+- [ ] [04. DOM & Events](./04-dom--events.md)
+- [ ] [05. React Basics](./05-react-basics.md)
+- [ ] [06. React Hooks](./06-react-hooks.md)
+- [ ] [07. Redux](./07-redux.md)
+- [ ] [08. Next.js](./08-next-js.md)
+- [ ] [09. Tailwind CSS](./09-tailwind-css.md)
+- [ ] [10. Node.js & Express](./10-node-js--express.md)
+- [ ] [11. MongoDB & Mongoose](./11-mongodb--mongoose.md)
+- [ ] [12. REST APIs](./12-rest-apis.md)
+- [ ] [13. Auth JWT](./13-auth-jwt.md)
+- [ ] [14. Deployment](./14-deployment.md)
+- [ ] [15. Full-Stack Project](./15-full-stack-project.md)

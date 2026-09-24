@@ -1,0 +1,17 @@
+# 📘 Course 5 — DBMS & SQL
+
+- [ ] [01. DBMS Basics & ER Model](./01-dbms-basics--er-model.md)
+- [ ] [02. Relational Model](./02-relational-model.md)
+- [ ] [03. SQL Basics](./03-sql-basics.md)
+- [ ] [04. Joins](./04-joins.md)
+- [ ] [05. Aggregations & Group By](./05-aggregations--group-by.md)
+- [ ] [06. Subqueries](./06-subqueries.md)
+- [ ] [07. Window Functions](./07-window-functions.md)
+- [ ] [08. Indexes](./08-indexes.md)
+- [ ] [09. Normalization](./09-normalization.md)
+- [ ] [10. Transactions & ACID](./10-transactions--acid.md)
+- [ ] [11. Concurrency Control](./11-concurrency-control.md)
+- [ ] [12. Stored Procedures & Triggers](./12-stored-procedures--triggers.md)
+- [ ] [13. NoSQL MongoDB](./13-nosql-mongodb.md)
+- [ ] [14. Query Optimization](./14-query-optimization.md)
+- [ ] [15. Real-world SQL Problems](./15-real-world-sql-problems.md)

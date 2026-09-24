@@ -1,0 +1,17 @@
+# 📘 Course 9 — Cloud & DevOps
+
+- [ ] [01. Cloud Fundamentals](./01-cloud-fundamentals.md)
+- [ ] [02. AWS EC2](./02-aws-ec2.md)
+- [ ] [03. AWS S3](./03-aws-s3.md)
+- [ ] [04. AWS IAM](./04-aws-iam.md)
+- [ ] [05. AWS RDS DynamoDB](./05-aws-rds-dynamodb.md)
+- [ ] [06. AWS Lambda & API GW](./06-aws-lambda--api-gw.md)
+- [ ] [07. VPC & Networking](./07-vpc--networking.md)
+- [ ] [08. CloudWatch](./08-cloudwatch.md)
+- [ ] [09. Docker Basics](./09-docker-basics.md)
+- [ ] [10. Docker Compose](./10-docker-compose.md)
+- [ ] [11. Kubernetes](./11-kubernetes.md)
+- [ ] [12. GitHub Actions CI CD](./12-github-actions-ci-cd.md)
+- [ ] [13. Jenkins](./13-jenkins.md)
+- [ ] [14. Terraform](./14-terraform.md)
+- [ ] [15. Deploy Full App to AWS](./15-deploy-full-app-to-aws.md)

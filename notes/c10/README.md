@@ -1,0 +1,17 @@
+# 📘 Course 10 — Git Linux & Shell
+
+- [ ] [01. Git Basics](./01-git-basics.md)
+- [ ] [02. Branching & Merging](./02-branching--merging.md)
+- [ ] [03. Rebasing & Cherry-pick](./03-rebasing--cherry-pick.md)
+- [ ] [04. Git Workflow Fork PR](./04-git-workflow-fork-pr.md)
+- [ ] [05. Linux File System](./05-linux-file-system.md)
+- [ ] [06. File Permissions](./06-file-permissions.md)
+- [ ] [07. Process Management](./07-process-management.md)
+- [ ] [08. Package Managers](./08-package-managers.md)
+- [ ] [09. Networking Commands](./09-networking-commands.md)
+- [ ] [10. Vim Nano](./10-vim-nano.md)
+- [ ] [11. Shell Basics](./11-shell-basics.md)
+- [ ] [12. Variables & Loops](./12-variables--loops.md)
+- [ ] [13. Awk Sed Grep](./13-awk-sed-grep.md)
+- [ ] [14. Cron Jobs](./14-cron-jobs.md)
+- [ ] [15. Real-world Shell Scripts](./15-real-world-shell-scripts.md)

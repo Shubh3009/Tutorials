@@ -1,0 +1,17 @@
+# 📘 Course 6 — Python Programming
+
+- [ ] [01. Syntax & Data Types](./01-syntax--data-types.md)
+- [ ] [02. Control Flow](./02-control-flow.md)
+- [ ] [03. Functions & Lambdas](./03-functions--lambdas.md)
+- [ ] [04. Comprehensions](./04-comprehensions.md)
+- [ ] [05. OOP in Python](./05-oop-in-python.md)
+- [ ] [06. Modules & Packages](./06-modules--packages.md)
+- [ ] [07. File I O](./07-file-i-o.md)
+- [ ] [08. Exception Handling](./08-exception-handling.md)
+- [ ] [09. Decorators & Generators](./09-decorators--generators.md)
+- [ ] [10. Iterators & Context Managers](./10-iterators--context-managers.md)
+- [ ] [11. Multithreading & AsyncIO](./11-multithreading--asyncio.md)
+- [ ] [12. NumPy & Pandas](./12-numpy--pandas.md)
+- [ ] [13. Regex](./13-regex.md)
+- [ ] [14. Testing pytest](./14-testing-pytest.md)
+- [ ] [15. Mini Projects](./15-mini-projects.md)

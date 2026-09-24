@@ -1,0 +1,17 @@
+# 📘 Course 1 — Data Structures & Algorithms
+
+- [ ] [01. Arrays](./01-arrays.md)
+- [ ] [02. Strings](./02-strings.md)
+- [ ] [03. Linked Lists](./03-linked-lists.md)
+- [ ] [04. Stacks](./04-stacks.md)
+- [ ] [05. Queues](./05-queues.md)
+- [ ] [06. Recursion](./06-recursion.md)
+- [ ] [07. Binary Search](./07-binary-search.md)
+- [ ] [08. Sorting](./08-sorting.md)
+- [ ] [09. Hashing](./09-hashing.md)
+- [ ] [10. Trees](./10-trees.md)
+- [ ] [11. Binary Search Trees](./11-binary-search-trees.md)
+- [ ] [12. Heaps & Priority Queue](./12-heaps--priority-queue.md)
+- [ ] [13. Graphs](./13-graphs.md)
+- [ ] [14. Dynamic Programming](./14-dynamic-programming.md)
+- [ ] [15. Tries & Advanced](./15-tries--advanced.md)

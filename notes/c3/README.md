@@ -1,0 +1,17 @@
+# 📘 Course 3 — Operating Systems
+
+- [ ] [01. Intro & OS Types](./01-intro--os-types.md)
+- [ ] [02. Processes & Threads](./02-processes--threads.md)
+- [ ] [03. CPU Scheduling](./03-cpu-scheduling.md)
+- [ ] [04. Synchronization](./04-synchronization.md)
+- [ ] [05. Deadlocks](./05-deadlocks.md)
+- [ ] [06. Memory Management](./06-memory-management.md)
+- [ ] [07. Paging & Segmentation](./07-paging--segmentation.md)
+- [ ] [08. Virtual Memory](./08-virtual-memory.md)
+- [ ] [09. File Systems](./09-file-systems.md)
+- [ ] [10. Disk Scheduling](./10-disk-scheduling.md)
+- [ ] [11. I O Systems](./11-i-o-systems.md)
+- [ ] [12. Security](./12-security.md)
+- [ ] [13. Linux Internals](./13-linux-internals.md)
+- [ ] [14. Shell & System Calls](./14-shell--system-calls.md)
+- [ ] [15. Case Studies](./15-case-studies.md)

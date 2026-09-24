@@ -1,0 +1,17 @@
+# 📘 Course 2 — System Design
+
+- [ ] [01. Fundamentals & Scaling](./01-fundamentals--scaling.md)
+- [ ] [02. Load Balancing](./02-load-balancing.md)
+- [ ] [03. Caching](./03-caching.md)
+- [ ] [04. Databases SQL vs NoSQL](./04-databases-sql-vs-nosql.md)
+- [ ] [05. Sharding & Replication](./05-sharding--replication.md)
+- [ ] [06. Message Queues](./06-message-queues.md)
+- [ ] [07. CAP Theorem](./07-cap-theorem.md)
+- [ ] [08. API Design](./08-api-design.md)
+- [ ] [09. Microservices](./09-microservices.md)
+- [ ] [10. Rate Limiting](./10-rate-limiting.md)
+- [ ] [11. Design URL Shortener](./11-design-url-shortener.md)
+- [ ] [12. Design Twitter Feed](./12-design-twitter-feed.md)
+- [ ] [13. Design WhatsApp](./13-design-whatsapp.md)
+- [ ] [14. Design YouTube](./14-design-youtube.md)
+- [ ] [15. Design Uber](./15-design-uber.md)
